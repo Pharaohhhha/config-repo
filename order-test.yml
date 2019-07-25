@@ -17,3 +17,6 @@ spring:
     password: guest
 env:
   test3
+girls:
+  name: lili
+  age: 18
