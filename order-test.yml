@@ -17,6 +17,6 @@ spring:
     password: guest
 env:
   test31
-girls:
+girl:
   name: lilia
   age: 18
